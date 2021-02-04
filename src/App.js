@@ -15,7 +15,7 @@ const App = ()=>{
     useEffect(()=>{
         axios.get('https://pixabay.com/api/', {
             params: {
-                key : '20139365-8604d003e71feba235bb75894',
+                key : 'YOUR_PIXABAY_API_KEY_GOES_HERE',
                 q : term,
                 image_type: 'photo',
                 pretty : true
