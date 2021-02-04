@@ -1,6 +1,6 @@
 # react-axios-image-search-app-semantic-ui-version
 
-It's a react app made with `semantic ui` which allows to search images from the pixabay website. Here `axios` is used to fetch images. Just Search and instantly get result! You can also download hight quality picture from the app.
+It's a react app made with `semantic ui` which allows to search images from the pixabay website. Here `axios` is used to fetch images. Just Search and instantly get result! You can also download high quality picture from the app.
 
 # Usage
 
