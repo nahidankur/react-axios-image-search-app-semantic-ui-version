@@ -1,0 +1,26 @@
+.masti{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.btn-middle{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 10px;
+    
+
+}
+button a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit !important;
+}
+
+h1 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
