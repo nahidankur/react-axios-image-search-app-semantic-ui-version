@@ -19,3 +19,5 @@ Use your own pixabay api key in the App.js file located in `src/App.js` path.
 # Live Preview is available here
 
 https://react-image-search-semantic-ui-version.netlify.app
+
+Use `Desktop mode` to browse the app for better experience as I have not made it mobile friendly.
